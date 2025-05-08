@@ -1,0 +1,22 @@
+# Node dependencies
+node_modules/
+
+# Parcel cache
+.parcel-cache/
+
+# Dist build output
+dist/
+
+# Environment variables
+.env
+
+# OS metadata files
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
